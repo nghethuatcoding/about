@@ -26,4 +26,8 @@ Và chính vì điều đó mình rất muốn tạo ra 1 trang media kiểu nh�
 Mình hoạt động với tiêu chí sau:
 
 * Cung cấp thông tin hữu ích đến engineer hay designer. Để 1 năm hay 2 năm sau đọc lại vẫn thấy có ích.
-* Cung cấp nội dung hoàn toàn miễn phí. Muốn đi được xa thì cần có kiến thức! Chúc các bạn thành công.
+* Cung cấp nội dung hoàn toàn miễn phí. 
+
+Muốn đi được xa thì cần có kiến thức!
+
+Chúc các bạn thành công.
